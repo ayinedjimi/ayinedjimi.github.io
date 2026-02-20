@@ -1,0 +1,21 @@
+title: Ayi NEDJIMI - Cybersecurity & AI Tools
+description: "100+ open-source cybersecurity, AI, and GPU computing tools"
+theme: jekyll-theme-hacker
+url: "https://ayinedjimi.github.io"
+author:
+  name: Ayi NEDJIMI
+  email: contact@ayinedjimi-consultants.fr
+  url: https://ayinedjimi-consultants.fr
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_analytics:
+
+social:
+  name: Ayi NEDJIMI
+  links:
+    - https://github.com/ayinedjimi
+    - https://linkedin.com/in/ayi-nedjimi
+    - https://huggingface.co/AYI-NEDJIMI
