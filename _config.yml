@@ -9,7 +9,6 @@ author:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-sitemap
 
 google_analytics:
 
