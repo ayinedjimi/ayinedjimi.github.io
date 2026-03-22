@@ -1,31 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ayinedjimi.github.io/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://ayinedjimi.github.io/ai-cybersecurity.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ayinedjimi.github.io/ad-security-audit.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ayinedjimi.github.io/cuda-gpu-mlops.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ayinedjimi.github.io/cpp-security-tools.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ayinedjimi.github.io/huggingface.html</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://ayinedjimi.github.io/kvortex.html</loc>
-    <priority>0.8</priority>
-  </url>
+<url><loc>https://ayinedjimi.github.io/</loc></url>
+<url><loc>https://ayinedjimi.github.io/ai-cybersecurity.html</loc></url>
+<url><loc>https://ayinedjimi.github.io/ad-security-audit.html</loc></url>
+<url><loc>https://ayinedjimi.github.io/cuda-gpu-mlops.html</loc></url>
+<url><loc>https://ayinedjimi.github.io/cpp-security-tools.html</loc></url>
+<url><loc>https://ayinedjimi.github.io/huggingface.html</loc></url>
+<url><loc>https://ayinedjimi.github.io/kvortex.html</loc></url>
 </urlset>
